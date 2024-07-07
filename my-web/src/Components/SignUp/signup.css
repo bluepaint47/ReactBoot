@@ -1,0 +1,132 @@
+.dt{
+    font-weight: 600 ;
+    
+  }
+  .shado{
+   box-shadow:  1px 10px 10px -11px  cadetblue;
+  }
+  .cont1{
+    text-align: center;
+    margin-bottom: 67px;
+    margin-top: 44px;
+}
+.cont1 p{
+    font-weight: 700;
+}
+.cont1 h1{
+    font-size: 3rem;
+        margin: -8px;
+        font-weight: 400;
+        color: dodgerblue;
+}
+
+.form-width{
+    width: 125%;
+}
+.form-state{
+    width: 113%;
+}
+.for-width{
+    width: 97%;
+    box-shadow: -5px 5px 14px -7px gray;
+    background-color: #f4f4f4;
+    border: none;
+}
+.text57{
+    background-color: #677b7b;
+    color: white;
+    width: 105%;
+    height: 26px;
+    text-align: center;
+    padding-top: 3px;
+    font-weight: 400;
+}
+.mar-text{
+    margin: 8px -8px 0px -16px;
+}
+.text88{
+   
+    background-color: #677b7b;
+    color: white;
+    height: 26px;
+    width: 105%;
+    text-align: center;
+    padding-top: 3px;
+    font-weight: 400;
+    background-color: #706e6e;
+}
+.slip-state{
+    width: 139%;
+}
+.kk{
+    margin-left: -20px;
+    margin-right: 1px;
+}
+.karop{
+    box-shadow: -1px 5px 9px -1px #dae6f1;
+}
+.shado-cha{
+    box-shadow: -1px 3px 7px 1px #dae6f1;
+}
+.slip-year{
+    width: 138%;
+}
+.tex{
+    width: 97%;
+    margin-left: 8px;
+}
+.card-33 {
+    margin-left: 49px !important;
+    margin-right: 64px;
+    height: 311px;
+    box-shadow: 0px 4px 9px -3px #a39b9b;
+    border: none;
+    background-color: #f8f8f8;
+}
+.ro-width {
+    width: 93%;
+}
+.forcountry{
+    margin-left: -2px;
+    border-radius: 3px;
+
+}
+.forplan {
+    width: 84%;
+    margin-left: 49px;
+}
+.style-group {
+    margin: 127px 13px 1px 49px;
+    width: 82%;
+    border: 1px solid #cac3c3;
+    height: 29px;
+    border-radius: 4px;
+    background: border-box;
+    font-size: 14px;
+    color: gray;
+}
+.mar-card{
+    margin-left: 49px;
+    font-size: 17px;
+}
+.footer{
+    background-color: 	 #323643; ;
+    
+}
+.f-width{ 
+    width: 67%;
+    height: 32px;
+    background-color: #565353;
+  
+   
+   
+    margin-bottom: 2px;
+}
+.f-text{
+    color: rgb(190, 186, 179);
+}
+.footer-text{
+    background-color: #4242d3;;
+    text-align: center;
+    color: white
+  }

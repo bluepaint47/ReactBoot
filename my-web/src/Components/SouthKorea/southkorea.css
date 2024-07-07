@@ -1,0 +1,52 @@
+
+
+.cont1{
+    text-align: center;
+    margin-bottom: 67px;
+    margin-top: 44px;
+}
+.cont1 p{
+    font-weight: 600;
+    font-size: 20px;
+}
+.cont1 h1{
+    font-size: 55px;
+        margin: -8px;
+        font-weight: 100;
+        color: dodgerblue;
+}
+.for-wid{
+    width: 43 !important;
+}
+.for-wid1{
+    width: 38% !important;
+}
+
+.for-trhed{
+    height: 12px important;
+    height: 51px;
+    border-bottom: 2px solid #d7d7d7;
+    margin-bottom: 59px;
+}
+.for-padd{
+    padding: 14px !important;
+}
+
+.for-clas-pad{
+    padding: 11px 15px !important;
+}
+.for-pad2{
+    padding: 12px 14px !important;
+
+
+}
+.b-con{
+    margin-top: 60px;
+}
+.b-batn{
+    border-bottom: 1px solid white;
+
+}
+.f-fot{
+    margin-top: 10px;
+}

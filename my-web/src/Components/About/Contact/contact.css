@@ -1,0 +1,56 @@
+.bg3{
+  
+  
+    background-color: indigo;
+  color: white;
+  padding-bottom: 1px;
+  }
+  .cont1{
+    text-align: center;
+    margin-bottom: 67px;
+    margin-top: 44px;
+}
+.cont1 p{
+    font-weight: 500;
+}
+.cont1 h1{
+  font-size: 100;
+        margin: -8px;
+        font-size: 54px;
+        color: dodgerblue;
+}
+.box-sha{
+    box-shadow: 0px 6px 7px 1px #d9e6f3;
+}
+
+.margin-butn{
+    margin: -2px -2px -14px 8px;
+    height: 35px;
+}
+.conatine-heigh{
+    height: 35px;
+}
+
+.plae33{
+    text-decoration: none;
+}
+.f-width{ 
+    width: 67%;
+    height: 32px;
+    background-color:#393e46 !important ;
+  
+   
+   
+    margin-bottom: 2px;
+}
+.foloow{
+    
+	  background-color: #393e46;
+}
+.f-pages{
+    font-weight: 500;
+    margin-bottom: 7px !important;
+}
+.myheight{
+    height: 182px;
+}

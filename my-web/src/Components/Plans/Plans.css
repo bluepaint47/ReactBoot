@@ -1,0 +1,97 @@
+.gold{
+    width: 59%;
+    text-align: left;
+    height: 50px;
+    margin: 54px 0px 0px 34px;
+}
+.gold h3{
+    margin-left: 11px;
+}
+.gold p1{
+  box-sizing: border-box;
+  border-bottom: 1px solid gray;
+}
+
+.placeholder{
+  display: inline-block;
+  min-height: 2em;
+  box-shadow: 2px 5px 3px -5px gray;
+  vertical-align: middle;
+  cursor: wait;
+  background-color: currentcolor;
+  opacity: 0.5;
+  margin: 128px 11px 3px 17px;
+  border-radius: 12px;
+  width: 87%;
+  height: 1px;
+ 
+
+}
+.placeholder text{
+  color: black;
+}
+.but-styling{
+  cursor: pointer;
+  margin: 1px 0px -30px -278px;
+  width: 37%;
+  height: 31px;
+  padding: 1px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: rgb(20, 20, 247);
+  font-weight: 300;
+
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.for-w{
+  width: 144%;
+  margin-left: 10px;
+
+}
+.m-card-1{
+  margin-top: 162px !important;
+  margin-left: -13px !important;
+}
+.card-for3{
+  width: 98%;
+  margin-left: 19px !important;
+  
+  height: 398px  !important;
+  box-shadow: 0px 4px 9px -3px #a39b9b;
+  border: none;
+  box-shadow: -1px 4px 14px -8px rgb(58 59 120);
+  }
+  .place22{
+    width: 84%;
+    margin-left: 55px;
+
+    border-radius: 5px;
+  }
+  .btn8{
+    width: 36%;
+    margin-left: 41px;
+    margin-top: 23px;
+  }
+  .span-button{
+    margin-left: 260px;
+    font-weight: 400;
+    margin-top: -37px;
+    font-size: 23px;
+    font-family: sans-serif;
+  }
+  .card-55{
+    margin-right: 21px;
+    margin-left: 10px;
+    height: 397px;
+    border: none;
+    box-shadow: -1px 4px 14px -8px rgb(58 59 120);
+
+
+
+
+  }
