@@ -29,7 +29,7 @@ function Contact() {
         <Link to="/plans"  class="nav-link active me-3"  href="#">Plans</Link>
         </li>
          <li class="nav-item">
-         <Link to="/contact" class="name-3 mt-0 plae33 text-black nav-link " >Contact</Link>
+         <Link to="/contact" class="name-3 mt-0 plae33 text-black nav-link me-2" >Contact</Link>
         </li>
         <li class="nav-item">
           <Link to='/login' class="nav-link disabled me-3 text-black" href="#" tabindex="-1" >Login</Link>
@@ -73,7 +73,7 @@ function Contact() {
     </div>
     <div class="col">
     <div class="card border-0 box-sha bg-light">
-  <div class="card-body">
+  <div class="card-body  ">
   <h6>OUR ADRESS</h6>
   <div class="card border-0 box-sha ">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.043158918657!2d-49.1289872051394!3d-26.902125352237743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94df1f27f79949ab%3A0x82d5c2627e45dcd!2sProUPS%20Energy%20Solutions%20Ltd.!5e0!3m2!1sen!2s!4v1720032629328!5m2!1sen!2s" width="100%" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -87,7 +87,7 @@ function Contact() {
 </div>
 {/* another card*/}
 <div class="card bg-light border-0 mt-4 box-sha" >
-  <div class="card-body ms-1">
+  <div class="card-body foradre mt-2 ms-2">
     <h5 class="card-title">CONTACT INFORMATION</h5>
     <h6 class="card-subtitle mb-2 text-muted"></h6>
     <p2>Contact@makemytrip.com</p2><br/>
@@ -103,7 +103,7 @@ function Contact() {
 
   {/* for-footer*/}
 
-  <div class="card mt-4 h-75 text-primary ">
+  <div class="card exteme h-75 text-primary ">
   <div class="card-body myheight foloow">
   <div class="container">
   <div class="row">

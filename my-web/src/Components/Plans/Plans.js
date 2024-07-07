@@ -68,7 +68,7 @@ function Plans() {
 </ul>
      </div>
     <div class="m-card-1">
-    <select class="form-select place22 bg-light fw-lighter fst-normal" aria-label="Default select example">
+    <select class="form-select place21 bg-light fw-lighter fst-normal" aria-label="Default select example">
   <option selected >Select your country</option>
   <option value="1">One</option>
   <option value="2">Two</option>
