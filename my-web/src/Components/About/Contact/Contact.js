@@ -1,5 +1,5 @@
 import './contact.css'
-import { Link } from "react-router-dom";
+import { Link ,NavLink } from "react-router-dom";
 import map1 from '../../Images/map.jpg'
 import logo from "../../Images/logo.png"
 function Contact() {
@@ -20,22 +20,22 @@ function Contact() {
             Locations
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><Link to="/southkorea"  class="dropdown-item" href="#">SouthKorea</Link></li>
-            <li><Link to="/home1" class="dropdown-item" href="#">Home1</Link></li>
+            <li>< NavLink to="/southkorea"  class="dropdown-item" href="#">SouthKorea</NavLink></li>
+            <li><NavLink to="/home1" class="dropdown-item" href="#">Home1</NavLink></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
         </li>
         <li class="nav-item">
-        <Link to="/plans"  class="nav-link active me-3"  href="#">Plans</Link>
+        <NavLink to="/plans"  class="nav-link text-black  me-3"  href="#">Plans</NavLink>
         </li>
          <li class="nav-item">
-         <Link to="/contact" class="name-3 mt-0 plae33 text-black nav-link me-2" >Contact</Link>
+         <NavLink to="/contact" class="name-3 mt-0  text-black nav-link me-2" >Contact</NavLink>
         </li>
         <li class="nav-item">
-          <Link to='/login' class="nav-link disabled me-3 text-black" href="#" tabindex="-1" >Login</Link>
+          <NavLink to='/login' class="nav-link disabled me-3 text-black" href="#" tabindex="-1" >Login</NavLink>
         </li>
         <li class="nav-item mt-n4  fs-7">
-        <Link to='/signup'><button type="button" class=" text-center btn btn-outline-primary mt-n2 fs-6">Sign UP</button> </Link>  
+        <NavLink to='/signup'><button type="button" class=" text-center btn btn-outline-primary mt-n2 fs-6">Sign UP</button> </NavLink>  
 
         </li>
       </ul>

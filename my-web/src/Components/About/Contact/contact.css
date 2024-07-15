@@ -61,3 +61,14 @@
 .exteme{
     margin-top: 45px;
 }
+
+a.active {
+    color: blue !important;
+    text-decoration: none;
+}
+.nav-item a{
+text-decoration: none !important;
+
+margin-left: 12px;
+margin-top: -8px ;
+}
